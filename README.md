@@ -1,6 +1,6 @@
 # Currency Converter using Ajax
 
-In this project, you will use JavaScript and Ajax (using the `fetch()` function) to communicate with [the Exchange Rates API](https://exchangeratesapi.io/) in order to convert an amount of currency to another type of currency.
+In this project, you will use JavaScript and Ajax (using the `fetch()` function) to communicate with [the Open Exchange Rates API](https://openexchangerates.org/) in order to convert an amount of currency to another type of currency.
 
 A user should be able to enter an amount in US dollars (USD) and choose a currency to convert that amount to. When they click the "convert" button, the page should show the result of converting that amount to the selected currency.
 
